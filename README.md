@@ -8,7 +8,8 @@ This repository contain my deep learning course assigments. Each assignment cont
 #### Assignment 1 - Implementation of Neural Network Using Python
 ##### Tasks
 1. Backpropagation: Draw the computational graph and derive the backpropagation equations for...
-2. Implement a Neural Network with a single hidden layer, multiple activation function and cross entropy loss function
+2. Implement a Neural Network with a single hidden layer, multiple activation function and cross entropy loss function.<br />
+[Task 1 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/code%20task2.py) | [Task 2 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/code%20task3.py) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/report.pdf)  
 #### Assignment 2 - Classification of MNIST Using Pytorch
 ##### Tasks
 1. Classify Images using Fully Connected Neural Networks
