@@ -4,7 +4,7 @@ This repository contain my deep learning course assigments. Each assignment cont
 ##### Tasks
 1. Find the critical point of following function by solving on paper as well as using SymPy python library and plot the function and the critical point on same plot.
 2. Find the extreme values, critical points and the saddle points using second derivative test on paper and do the same using SymPy python Library to solve it and plot it.<br />
-[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A0/DL%20A0.ipynb) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A0/DL%20A0%20Report.docx)
+[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A0/code.ipynb) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A0/report.docx)
 #### Assignment 1 - Implementation of Neural Network Using Python
 ##### Tasks
 1. Backpropagation: Draw the computational graph and derive the backpropagation equations for...
