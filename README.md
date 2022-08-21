@@ -26,4 +26,4 @@ This repository contain my deep learning course assigments. Each assignment cont
 #### Assignment 5 - Transformer
 ##### Task
 1. Implement seq-to-seq transformer for two digit operation.<br />
-[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A5/submission/transformer.py)
+[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A5/submission/transformers.py)
