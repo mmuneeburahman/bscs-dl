@@ -12,14 +12,18 @@ This repository contain my deep learning course assigments. Each assignment cont
 [Task 1 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/code%20task2.py) | [Task 2 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/code%20task3.py) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A1/submission/report.pdf)  
 #### Assignment 2 - Classification of MNIST Using Pytorch
 ##### Tasks
-1. Classify Images using Fully Connected Neural Networks
-2. Classify Images using Convolutional Neural Network using Pytorch
+1. Classify Images using Fully Connected Neural Networks.
+2. Classify Images using Convolutional Neural Network using Pytorch.<br />
+[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A2/submission/code.py) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A2/submission/report.pdf)
 #### Assignment 3 - Classification of MNIST Using Pytorch
 ##### Tasks
-1. Image Classification Using MobileNet
+1. Image Classification Using MobileNet.<br />
+[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A3/submission/code.py) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A3/submission/report.pdf)
 #### Assignment 4 - Deep Convolutional GAN (DCGAN)
 ##### Tasks
-1. Implement Generator and Discriminator
+1. Implement Generator and Discriminator<br />
+[Task 1 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A4/submission/code%20task1.py) | [Task 2 Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A4/submission/code%20task2.py) | [Report](https://github.com/mmuneeburahman/bscs-dl/blob/main/A4/submission/a4_report.pdf)
 #### Assignment 5 - Transformer
 ##### Task
-1. Implement seq-to-seq transformer for two digit operation.
+1. Implement seq-to-seq transformer for two digit operation.<br />
+[Code](https://github.com/mmuneeburahman/bscs-dl/blob/main/A5/submission/transformer.py)
